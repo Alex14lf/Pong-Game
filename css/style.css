@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+canvas {
+    margin: 30px auto;
+}
+.messages{
+    color: #AE00FF;
+}
+.none{
+    display: none;
+}
+.button{
+    width: 100px;
+    background-color: #ffffff;
+    border: 2px solid #AE00FF;
+    border-radius: 0.5rem;
+}
+
+.button:hover{
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    background-color: #AE00FF;
+}
